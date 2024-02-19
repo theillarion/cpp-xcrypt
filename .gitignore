@@ -1,0 +1,9 @@
+# Directories
+.idea/
+.vs-code/
+build*
+out*
+bin*
+cmake-build*
+
+CMakeUserPresets.json
